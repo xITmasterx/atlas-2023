@@ -1,0 +1,44 @@
+{
+	"id": -1,
+	"name": "Unfinished Star's Wand",
+	"description": "The wand of Star Butterfly from the animated series \"Star vs the forces of Evil\"",
+	"links": {
+		"subreddit": [
+			"StarVsTheForcesOfEvil"
+		]
+	},
+	"path": {
+		"254-256": [
+			[
+				1246,
+				195
+			],
+			[
+				1246,
+				195
+			],
+			[
+				1246,
+				196
+			],
+			[
+				1246,
+				205
+			],
+			[
+				1255,
+				205
+			],
+			[
+				1255,
+				195
+			]
+		]
+	},
+	"center": {
+		"254-256": [
+			1251,
+			200
+		]
+	}
+}
